@@ -1,9 +1,9 @@
 #!/bin/bash
 
-domain=( sistersmodels.ru google.ru)
+domain=( domain.ru )
 alert=( 90 30 15 10 5 4 3 2 1 )
-mailto=disaev.inbox@gmail.com
-mailfrom=notify@disaev.tech
+mailto=
+mailfrom=
 log=1
 
 #logging the operation
